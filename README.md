@@ -15,7 +15,6 @@ Tujuan dibuatnya repositori ini adalah untuk dokumentasi sekaligus pembelajaran 
 ## 🛠️ Teknologi yang Digunakan
 - C++  
 - Java  
-- Python  
 
 ---
 
