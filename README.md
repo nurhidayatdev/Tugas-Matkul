@@ -1,6 +1,6 @@
 # 📚 Kumpulan Tugas Mata Kuliah - PTIK UNM
 
-![Language](https://img.shields.io/badge/language-Java%20%7C%20C%2B%2B%20%7C%20PHP%20%7C%20HTML-blue)
+![Language](https://img.shields.io/badge/language-Java%20%7C%20C%2B%2B%20%7C%20PHP%20%7C%20HTML%20%7C%20Python-blue)
 ![University](https://img.shields.io/badge/UNM-Universitas%20Negeri%20Makassar-orange)
 ![Student](https://img.shields.io/badge/Developer-Nur%20Hidayat-green)
 
@@ -49,11 +49,50 @@ Berikut adalah mata kuliah yang telah didokumentasikan di dalam repositori ini b
     *   [praktikum-6](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Web/praktikum-6): Pengenalan sintaks PHP dan pemecahan kasus logika deret matematika (`tugas6.php`).
     *   [praktikum-7](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Web/praktikum-7): Pemrosesan form input pada PHP (`form_tugas1.html` -> `proses_tugas1.php`), penggunaan Array PHP, dan kalkulator sederhana berbasis fungsi matematika.
 
-### 3. 🗂️ Struktur Data (Semester 3)
+### 3. ☕ Pemrograman Berorientasi Objek (Semester 3)
+*   **Teknologi:** Java
+*   **Topik yang Dipelajari:** Konsep dasar OOP (class & object), constructor, enkapsulasi (getter/setter), pewarisan (inheritance), polimorfisme, abstract class, quiz, dan UTS.
+*   **Daftar Folder:**
+    *   [pertemuan-1](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Berorientasi%20Objek/pertemuan-1): Pengenalan class pertama di Java OOP (`bulukumpa.java`).
+    *   [pertemuan-2](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Berorientasi%20Objek/pertemuan-2): Contoh dan praktikum pembuatan class, object, dan constructor (`contoh21-24.java`, `prak21-23.java`).
+    *   [pertemuan-3](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Berorientasi%20Objek/pertemuan-3): Konsep enkapsulasi dengan access modifier dan method getter/setter (`enkapsulasi.java`, `enkapsulasiBiodata.java`, `Biodata.java`, `praktikum31-33.java`, `tantangan.java`).
+    *   [pertemuan-4](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Berorientasi%20Objek/pertemuan-4): Latihan dan praktikum pewarisan (inheritance) beserta tantangan (`lat41a.java`, `lat41b.java`, `praktikum41.java`, `tantangan4.java`).
+    *   [pertemuan-5](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Berorientasi%20Objek/pertemuan-5): Contoh dan praktikum polimorfisme & interface (`contoh51-54.java`, `prak1.java`, `tantangan.java`).
+    *   [pertemuan-6](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Berorientasi%20Objek/pertemuan-6): Contoh, praktikum, dan latihan quiz materi lanjutan OOP (`contoh61-62.java`, `prak1-3.java`, `quiz.java`).
+    *   [quiz](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Berorientasi%20Objek/quiz): Jawaban soal kuis mata kuliah PBO (`quiz.java`).
+    *   [uts](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Berorientasi%20Objek/uts): Jawaban soal Ujian Tengah Semester PBO (`soal1-5.java`).
+
+### 4. 🗂️ Struktur Data (Semester 3)
 *   **Teknologi:** C++
 *   **Topik yang Dipelajari:** Operasi memori, manipulasi array, pointer, references, dan alokasi memori dinamis di C++.
 *   **Daftar Folder:**
     *   [Pertemuan 2](file:///d:/1-PTIK%20C/Tugas-Matkul/Struktur%20Data/Pertemuan%202): Berbagai percobaan dasar pointer & array (`percobaan_1.cpp` sampai `percobaan_7.cpp`) seperti penjumlahan array, pencarian elemen, aritmatika pointer, dan reference passing.
+
+### 5. 📱 Pemrograman Perangkat Mobile (Semester 3)
+*   **Teknologi:** Java, Android SDK, Android Studio, XML (Layout)
+*   **Topik yang Dipelajari:** Pengembangan aplikasi Android native menggunakan Java, berbagai jenis layout (LinearLayout, RelativeLayout, ConstraintLayout), widget UI, Intent (eksplisit & implisit), siklus hidup Activity (Lifecycle), serta pembuatan aplikasi kalkulator dan catatan.
+*   **Daftar Project:**
+    *   [BasicAndroid](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Perangkat%20Mobile/BasicAndroid) & [BasicLinear](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Perangkat%20Mobile/BasicLinear): Pengenalan project Android dan LinearLayout.
+    *   [RelativeApp](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Perangkat%20Mobile/RelativeApp) & [RelativeApp2](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Perangkat%20Mobile/RelativeApp2): Percobaan RelativeLayout.
+    *   [ConstraintApp](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Perangkat%20Mobile/ConstraintApp) & [ConstraintApp2](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Perangkat%20Mobile/ConstraintApp2): Percobaan ConstraintLayout.
+    *   [AppWidget](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Perangkat%20Mobile/AppWidget), [AppWidgetButton](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Perangkat%20Mobile/AppWidgetButton), [AppWidgetEditText](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Perangkat%20Mobile/AppWidgetEditText), [AppWidgetImage](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Perangkat%20Mobile/AppWidgetImage): Eksplorasi widget Android (TextView, Button, EditText, ImageView).
+    *   [SwitchTon](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Perangkat%20Mobile/SwitchTon) ~ [SwitchTon4](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Perangkat%20Mobile/SwitchTon4): Latihan penggunaan Switch, Toggle, dan komponen interaktif lainnya.
+    *   [EksplisitIntentApp](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Perangkat%20Mobile/EksplisitIntentApp), [EksplisitIntentApp2](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Perangkat%20Mobile/EksplisitIntentApp2), [IntentEmplisitApp](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Perangkat%20Mobile/IntentEmplisitApp): Navigasi antar Activity menggunakan Intent eksplisit dan implisit.
+    *   [LifecycleApp](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Perangkat%20Mobile/LifecycleApp): Pemahaman siklus hidup Activity Android.
+    *   [VolumeBalok](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Perangkat%20Mobile/VolumeBalok): Aplikasi kalkulator volume balok.
+    *   [AplikasiKonversi](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Perangkat%20Mobile/AplikasiKonversi): Aplikasi konversi satuan.
+    *   [AplikasiPerkenalan](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Perangkat%20Mobile/AplikasiPerkenalan): Aplikasi halaman perkenalan diri.
+    *   [ApkTimbangan](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Perangkat%20Mobile/ApkTimbangan), [timbangan](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Perangkat%20Mobile/timbangan), [MabalancaApp](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Perangkat%20Mobile/MabalancaApp) ~ [MabalanceApp4](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Perangkat%20Mobile/MabalanceApp4): Iterasi pengembangan aplikasi timbangan digital.
+    *   [CatatanTugasKuliah](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Perangkat%20Mobile/CatatanTugasKuliah) & [PW-123-CatatanTugasKuliah-Nur Hidayat](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Perangkat%20Mobile/PW-123-CatatanTugasKuliah-Nur%20Hidayat): Aplikasi catatan tugas kuliah.
+    *   [JavaProject](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Perangkat%20Mobile/JavaProject) & [JavaProjectClass](file:///d:/1-PTIK%20C/Tugas-Matkul/Pemrograman%20Perangkat%20Mobile/JavaProjectClass): Latihan penerapan konsep class Java dalam project Android.
+
+### 6. 🖼️ Pengolahan Citra Digital (Semester 3)
+*   **Teknologi:** Python, OpenCV, NumPy, Matplotlib, Jupyter Notebook
+*   **Topik yang Dipelajari:** Dasar pengolahan citra (baca, tampil, resize, rotasi, translasi), histogram equalization, histogram stretching, thresholding (berbagai metode), deteksi tepi menggunakan operator Sobel (manual), dan pengurangan noise periodik.
+*   **Daftar Folder:**
+    *   [tugas-1](file:///d:/1-PTIK%20C/Tugas-Matkul/Pengolahan%20Citra%20Digital/tugas-1): Pengenalan dan operasi dasar citra digital menggunakan Python & OpenCV. Meliputi operasi geometri (resize, rotasi, translasi), histogram equalization & stretching, thresholding (binary, otsu, dll), deteksi tepi dengan operator gradien, serta eksplorasi berbagai citra (`monas`, `sudirman`, `apel`, dll).
+    *   [tugas-3](file:///d:/1-PTIK%20C/Tugas-Matkul/Pengolahan%20Citra%20Digital/tugas-3): Topik lanjutan meliputi pengurangan noise periodik (`Periodic_Noise_Reduction_Bung_Tomo.ipynb`) dan deteksi tepi manual menggunakan Sobel pada sel yang terpisah (`Sobel_Manual_Separated_Cells.ipynb`), serta praktikum pendukung (`prak1.ipynb`, `prak2.ipynb`).
+    *   [uts](file:///d:/1-PTIK%20C/Tugas-Matkul/Pengolahan%20Citra%20Digital/uts): Proyek Ujian Tengah Semester pengolahan citra digital.
 
 ---
 
@@ -76,8 +115,39 @@ Tugas-Matkul/
 │   ├── praktikum-4/
 │   ├── praktikum-6/
 │   └── praktikum-7/
+├── Pemrograman Berorientasi Objek/
+│   ├── pertemuan-1/
+│   ├── pertemuan-2/
+│   ├── pertemuan-3/
+│   ├── pertemuan-4/
+│   ├── pertemuan-5/
+│   ├── pertemuan-6/
+│   ├── quiz/
+│   └── uts/
 ├── Struktur Data/
 │   └── Pertemuan 2/
+├── Pemrograman Perangkat Mobile/
+│   ├── BasicAndroid/
+│   ├── BasicLinear/
+│   ├── RelativeApp/ & RelativeApp2/
+│   ├── ConstraintApp/ & ConstraintApp2/
+│   ├── AppWidget/ & AppWidget(Button/EditText/Image)/
+│   ├── SwitchTon/ ~ SwitchTon4/
+│   ├── EksplisitIntentApp/ & EksplisitIntentApp2/
+│   ├── IntentEmplisitApp/
+│   ├── LifecycleApp/
+│   ├── VolumeBalok/
+│   ├── AplikasiKonversi/
+│   ├── AplikasiPerkenalan/
+│   ├── ApkTimbangan/ & timbangan/
+│   ├── MabalancaApp/ ~ MabalanceApp4/
+│   ├── CatatanTugasKuliah/
+│   ├── JavaProject/ & JavaProjectClass/
+│   └── ... (dan project lainnya)
+├── Pengolahan Citra Digital/
+│   ├── tugas-1/
+│   ├── tugas-3/
+│   └── uts/
 └── README.md
 ```
 
@@ -87,32 +157,54 @@ Tugas-Matkul/
 
 ### Prasyarat (Prerequisites)
 Pastikan Anda telah menginstal compiler/runtime yang sesuai di sistem Anda:
-*   **Java Development Kit (JDK)** untuk menjalankan tugas Algoritma.
-*   **G++ / GCC Compiler** untuk menjalankan kode C++.
+*   **Java Development Kit (JDK)** untuk menjalankan tugas Algoritma dan PBO.
+*   **G++ / GCC Compiler** untuk menjalankan kode C++ (Struktur Data).
 *   **Web Browser** & **Local Server (seperti XAMPP/Laragon)** untuk menjalankan script PHP dan HTML Pemrograman Web.
+*   **Android Studio** (versi terbaru) untuk membuka dan menjalankan project Pemrograman Perangkat Mobile.
+*   **Python 3.x** beserta library `opencv-python`, `numpy`, `matplotlib`, dan **Jupyter Notebook / JupyterLab** untuk menjalankan notebook Pengolahan Citra Digital.
 
 ### Langkah-langkah
+
 1.  **Clone repositori ini:**
     ```bash
     git clone https://github.com/nurhidayatdev/Tugas-Matkul.git
     cd Tugas-Matkul
     ```
-2.  **Menjalankan program Java (contoh Algoritma):**
+
+2.  **Menjalankan program Java (contoh Algoritma / PBO):**
     ```bash
     cd "Algoritma dan Pemrograman Dasar/Pertemuan 4"
     javac hallo_dunia.java
     java hallo_dunia
     ```
+
 3.  **Menjalankan program C++ (contoh Struktur Data):**
     ```bash
     cd "Struktur Data/Pertemuan 2"
     g++ percobaan_1.cpp -o percobaan_1
     ./percobaan_1
     ```
+
 4.  **Menjalankan program PHP/HTML (contoh Pemrograman Web):**
     *   Pindahkan/salin folder `Pemrograman Web` ke direktori root web server Anda (misal `C:/xampp/htdocs/` atau di folder project Laragon).
     *   Jalankan Apache Web Server dari XAMPP/Laragon Control Panel.
     *   Akses halaman web di browser melalui URL: `http://localhost/Tugas-Matkul/Pemrograman Web/...`
+
+5.  **Menjalankan project Android (Pemrograman Perangkat Mobile):**
+    *   Buka **Android Studio**.
+    *   Pilih **Open** dan arahkan ke salah satu folder project di dalam `Pemrograman Perangkat Mobile/` (contoh: `VolumeBalok`).
+    *   Tunggu proses Gradle sync selesai, lalu jalankan dengan klik tombol ▶ **Run**.
+
+6.  **Menjalankan Jupyter Notebook (Pengolahan Citra Digital):**
+    ```bash
+    # Install dependensi jika belum ada
+    pip install opencv-python numpy matplotlib jupyter
+
+    # Jalankan Jupyter
+    cd "Pengolahan Citra Digital/tugas-1"
+    jupyter notebook
+    ```
+    *   Buka file `.ipynb` yang diinginkan melalui browser Jupyter yang terbuka.
 
 ---
 
