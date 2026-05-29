@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "915395321555",
+    "firebase_url": "https://mabalancaapp-daeaa-default-rtdb.firebaseio.com",
+    "project_id": "mabalancaapp-daeaa",
+    "storage_bucket": "mabalancaapp-daeaa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915395321555:android:c4e6001174aafc9d063e26",
+        "android_client_info": {
+          "package_name": "com.example.mabalancaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIx-MOh2ZQo6mHT03QK5MSTS3i8ilAZZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915395321555:android:554969424c2946f7063e26",
+        "android_client_info": {
+          "package_name": "com.example.mabalancaapp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIx-MOh2ZQo6mHT03QK5MSTS3i8ilAZZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915395321555:android:3285020a61d70845063e26",
+        "android_client_info": {
+          "package_name": "com.example.mabalancaapp3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIx-MOh2ZQo6mHT03QK5MSTS3i8ilAZZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915395321555:android:4254a9aedc1147fc063e26",
+        "android_client_info": {
+          "package_name": "com.example.mabalanceapp4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIx-MOh2ZQo6mHT03QK5MSTS3i8ilAZZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1018008124393",
+    "project_id": "catatantugaskuliah-b2ed9",
+    "storage_bucket": "catatantugaskuliah-b2ed9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018008124393:android:9f50aa8debfb6c31cba978",
+        "android_client_info": {
+          "package_name": "com.example.catatantugaskuliah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX9V8D-PxHh7Pja0P0v7JXN3PJMzKXHXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

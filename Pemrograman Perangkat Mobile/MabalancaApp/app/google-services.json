@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "553593076793",
+    "project_id": "mabalanceapp-16865",
+    "storage_bucket": "mabalanceapp-16865.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553593076793:android:c1710f69594381339021e8",
+        "android_client_info": {
+          "package_name": "com.example.mabalancaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgAlwk4msv-1B0ra9E4THtCE8hANIzaaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
